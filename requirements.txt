@@ -1,0 +1,2 @@
+# Optional - only needed for AGENT_PLANNER=llm
+anthropic>=0.40
